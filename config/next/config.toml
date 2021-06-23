@@ -1,0 +1,2 @@
+baseurl = "https://docstest.netlify.app/"
+canonifyURLs = true

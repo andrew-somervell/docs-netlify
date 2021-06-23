@@ -1,0 +1,2 @@
+baseurl = "https://docstest.vercel.app/"
+canonifyURLs = true
